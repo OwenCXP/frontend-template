@@ -73,6 +73,9 @@ export default {
       }
     }
   }
+</style>
+
+<style lang="less">
   .el-input__inner {
     background-color: transparent;
   }
